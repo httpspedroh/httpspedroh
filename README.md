@@ -10,7 +10,7 @@ class Bio extends SoftwareDeveloper {
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
 	occupation = 	'Fullstack Developer';
 	studying   = 	'Computer Science, 3rd period at @pucminas';
-	focus      = 	 {'Java', 'C', 'JavaScript', 'Flutter', 'PHP', 'Laravel'};                                                                        
+	focus      = 	 {'Java', 'C', 'NodeJS', 'Flutter', 'PHP', 'Laravel'};                                                                        
 }
 ```
 
@@ -59,6 +59,8 @@ class Bio extends SoftwareDeveloper {
 <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>  
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/></a>  
 <a href="https://npmjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NpmJS" width="40" height="40"/></a>  
+</p>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NpmJS" width="40" height="40"/></a>  
 </p>
 
 </br>
