@@ -9,7 +9,7 @@ class Bio extends SoftwareDeveloper {
 	age        = 	 20; 
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
 	occupation = 	'Fullstack Developer';
-	studying   = 	'Computer Science, 4rd period at @pucminas';
+	studying   = 	'Computer Science, 4th period at @pucminas';
 	focus      = 	 {'Java', 'Flutter', 'PHP', 'Laravel', 'Node.js'};                                                                        
 }
 ```
