@@ -8,9 +8,9 @@ class Bio extends ComputerScientist {
 	name       = 	'Pedro Lopes';
 	age        = 	 21; 
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
-	occupation = 	'Fullstack Developer/Data Analyst';
-	studying   = 	'Computer Science, 4th period at @pucminas';
-	focus      = 	 {'Java', 'Flutter', 'PHP', 'Laravel', 'Node.js', 'Python'};                                                                        
+	occupation = 	'Data Analyst/Fullstack Developer';
+	studying   = 	'Computer Science, 5th period at @pucminas';
+	focus      = 	 {'Python', 'SQL', 'Java', 'Flutter', 'PHP', 'Laravel', 'Node.js'};                                                                        
 }
 ```
 
