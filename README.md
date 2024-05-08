@@ -6,11 +6,11 @@ import ComputerScientist from 'httpspedroh';
 class Bio extends ComputerScientist {
 
 	name       = 	'Pedro Lopes';
-	age        = 	 21; 
+	age        = 	 22; 
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
-	occupation = 	'Data Analyst/Fullstack Developer';
+	occupation = 	'Back-end Developer';
 	studying   = 	'Computer Science, 5th period at @pucminas';
-	focus      = 	 {'Python', 'SQL', 'Java', 'Flutter', 'PHP', 'Laravel', 'Node.js'};                                                                        
+	focus      = 	 {'Python', 'Java', 'SQL', 'Flutter', 'PHP', 'Laravel', 'Node.js'};                                                                        
 }
 ```
 
