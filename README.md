@@ -9,7 +9,7 @@ class Bio extends ComputerScientist {
 	age        = 	 22; 
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
 	occupation = 	'Back-end Developer';
-	studying   = 	'Computer Science, 5th period at @pucminas';
+	studying   = 	'Computer Science, 6th period at @pucminas';
 	focus      = 	 {'Java', 'Micronaut', 'Terraform', 'Kafka', 'Python', 'PHP', 'Laravel', 'Node.js'};                                                                        
 }
 ```
