@@ -6,9 +6,9 @@ import ComputerScientist from 'httpspedroh';
 class Bio extends ComputerScientist {
 
 	name       = 	'Pedro Lopes';
-	age        = 	 22; 
+	age        = 	 23; 
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
-	occupation = 	'Back-end Developer';
+	occupation = 	'Back-end Engineer';
 	studying   = 	'Computer Science, 6th period at @pucminas';
 	focus      = 	 {'Java', 'Micronaut', 'Terraform', 'Kafka', 'Python', 'PHP', 'Laravel', 'Node.js'};                                                                        
 }
