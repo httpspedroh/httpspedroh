@@ -10,7 +10,7 @@ class Bio extends ComputerScientist {
 	location   = 	'Belo Horizonte, MG, Brazil';                                                                          
 	occupation = 	'Software Engineer';
 	studying   = 	'Computer Science, 6th period at @pucminas';
-	focus      = 	 {'Java', 'Micronaut', 'AWS', 'Kafka', 'Redis', 'PostgreSQL', 'Terraform'};                                                                        
+	focus      = 	 {'Java', 'Micronaut', 'AWS', 'Kubernetes', 'Kafka', 'Redis', 'PostgreSQL', 'Terraform'};                                                                        
 }
 ```
 
@@ -60,8 +60,8 @@ class Bio extends ComputerScientist {
 <h3 align="left">Tools</h3>
 
 <p align="left"> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>    
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/></a>    
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/></a>    
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svgg" alt="Kubernetes" width="40" height="40"/></a>    
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>    
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>    
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>    
